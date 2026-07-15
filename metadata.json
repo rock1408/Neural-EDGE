@@ -1,0 +1,6 @@
+{
+  "name": "NeuralEdge",
+  "description": "Elite Cognitive Assessment Platform — Top 2% Standard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
